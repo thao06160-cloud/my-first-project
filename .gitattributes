@@ -5,3 +5,4 @@ videos/hpg-quy-iii-2k-60fps.mp4 filter=lfs diff=lfs merge=lfs -text
 videos/hpg-quy-iii-khong-chop-2k-60fps.mp4 filter=lfs diff=lfs merge=lfs -text
 videos/xang-dien-source-da-loc-1102.mp4 filter=lfs diff=lfs merge=lfs -text
 videos/thao-xang-dien-2k-1103.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/thao-xang-dien-hook-nhanh-2k60-1103.mp4 filter=lfs diff=lfs merge=lfs -text
